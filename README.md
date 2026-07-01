@@ -1,16 +1,34 @@
 ## Hi there 👋
 
-<!--
-**aishwarya-dev9/aishwarya-dev9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Aishwarya**, a Python Developer from India 🇮🇳.
 
-Here are some ideas to get you started:
+I enjoy building automation tools, backend applications, and AI-powered projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I'm exploring the world of **Generative AI**, **LLMs**, and intelligent applications that solve real-world problems.
+
+### What I work with
+
+- 🐍 Python
+- 🤖 Robot Framework
+- 🌐 Flask & Django
+- 🐧 Linux
+- 🐳 Docker
+- 🔧 Git
+- 🗄️ MySQL
+- 🤖 OpenAI & Ollama
+
+### Current Focus
+
+- AI Agents
+- RAG Applications
+- Backend Development
+- Open Source
+
+### Fun Facts
+
+- ☕ I debug better than I sleep.
+- 📚 Always learning something new.
+- 🚀 Building one project at a time.
+- 💡 Interested in AI, Automation & Backend Engineering.
+
+Thanks for stopping by! ⭐
